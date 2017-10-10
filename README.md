@@ -1,5 +1,7 @@
 # VTAcknowledgementsViewController
 
+这是一个解析 CocoaPods管理的第三方类库 的 license，列表：详情的方式呈现处来的工具。
+
 _Ready to use “Acknowledgements”/“Licenses”/“Credits” view controller for [CocoaPods](http://cocoapods.org/)._
 
 _Now also available in Swift with [AcknowList](https://github.com/vtourraine/AcknowList)._
